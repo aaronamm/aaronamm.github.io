@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-dotnetthailand-gatsby-theme-minimal-portfolio-src-templates-tags-tsx",
+    "path": "/tags/sid/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/b/เวอร์ชั่นแต่ละเวอร์ชั่นของ-debian-คืออะไร-อะไรคือ-sid-testing-stable-โอ๊ยเยอะแยะไปหมด"},"frontmatter":{"title":"เวอร์ชั่นแต่ละเวอร์ชั่นของ debian คืออะไร อะไรคือ sid, testing, stable โอ๊ยเยอะแยะไปหมด..."}}}]}},"pageContext":{"tag":"sid","count":1}},
+    "staticQueryHashes": ["2822765527"]}

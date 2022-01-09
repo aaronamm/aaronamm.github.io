@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-dotnetthailand-gatsby-theme-minimal-portfolio-src-templates-tags-tsx",
+    "path": "/tags/github-page/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/b/git-hub-page-build-failure-solution"},"frontmatter":{"title":"GitHub Page Build Failure Solution"}}}]}},"pageContext":{"tag":"github-page","count":1}},
+    "staticQueryHashes": ["2822765527"]}
