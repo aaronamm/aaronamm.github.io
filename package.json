@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-starter-minimal-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dotnetthailand/gatsby-starter-minimal-portfolio.git",
+  "author": ".NET Thailand team",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "clean-start": "gatsby clean; gatsby develop"
+  },
+  "dependencies": {
+    "@dotnetthailand/gatsby-theme-minimal-portfolio": "^0.0.5",
+    "gatsby": "^3.4.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
