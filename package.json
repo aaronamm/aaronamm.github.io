@@ -13,7 +13,7 @@
     "clean-start": "gatsby clean; gatsby develop"
   },
   "dependencies": {
-    "@dotnetthailand/gatsby-theme-minimal-portfolio": "^0.0.5",
+    "@dotnetthailand/gatsby-theme-minimal-portfolio": "^1.0.0",
     "gatsby": "^3.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"

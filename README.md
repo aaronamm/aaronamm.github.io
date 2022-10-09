@@ -44,3 +44,8 @@
 - You will find your minimal portfolio website in a browser.
 - Later, when you edit source code, you just commit your changes and push theme to GitHub again 
   and a project will be deployed to GitHub Pages automatically.
+
+
+upgrade
+--latest
+https://classic.yarnpkg.com/en/docs/dependency-versions#toc-semantic-versioning
