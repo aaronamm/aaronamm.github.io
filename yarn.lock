@@ -1063,10 +1063,10 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@dotnetthailand/gatsby-theme-minimal-portfolio@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@dotnetthailand/gatsby-theme-minimal-portfolio/-/gatsby-theme-minimal-portfolio-1.0.0.tgz#673d7422395cb7b28e73a9bea617119af69abc23"
-  integrity sha512-P+fKYXRmONbt1jXUmBjS81MG549LGqEeL1jrWZI3CxL0eDy7tOdrhph1w9yOnYxaCH6c6NVm0n3dUeBvSFE0tw==
+"@dotnetthailand/gatsby-theme-minimal-portfolio@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@dotnetthailand/gatsby-theme-minimal-portfolio/-/gatsby-theme-minimal-portfolio-1.1.0.tgz#4042201847b3d9dad6bcd808d973051edf514c0e"
+  integrity sha512-yrQMiB92zr+kW4Xyeu2eOzkrg6++VfZxR6uMS80zLhrKwVP7mLVajhn1eQcbBeHbK7CswDURoMp8op8drNi0FA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.36"
     "@fortawesome/free-brands-svg-icons" "^5.15.4"

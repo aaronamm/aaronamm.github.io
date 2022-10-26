@@ -1,28 +1,28 @@
 const config = {
-  contentPath: 'content',
+  contentPath: 'activities',
   dataPath: 'data',
-  siteTitle: 'Thada', // Site title.
-  siteTitleShort: 'Thada W', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: 'Thada W.', // Alternative site title for SEO.
+  siteTitle: 'Aaron', // Site title.
+  siteTitleShort: 'Aaron', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: 'Aaron', // Alternative site title for SEO.
   siteLogo: '/logos/android-chrome-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://aaronamm.github.io', // Domain of your website without pathPrefix.
+  siteRss: '/rss.xml', // Path to the RSS file.
+  siteRssTitle: 'Aaron RSS feed', // Title of the RSS feed
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   nodePrefix: '/b', // Prefixes for only post created by createNodeField from `gastby-node.js`
-  siteDescription: 'Thada personal portfolio site', // Website description used for RSS feeds/meta description tag.
-  siteRss: '/rss.xml', // Path to the RSS file.
-  siteRssTitle: 'Thadaw.com RSS feed', // Title of the RSS feed
+  siteDescription: 'Aaron personal portfolio site', // Website description used for RSS feeds/meta description tag.
   siteFBAppID: 'xxxxx', // FB Application ID for using app insights
   googleAnalyticsID: 'UA-625xxxx-1', // GA tracking ID.
   dateFromFormat: 'YYYY-MM-DD', // Date format used in the frontmatter.
   dateFormat: 'yyyy MMM, d', // Date format for display.
   postsPerPage: 10, // Amount of posts displayed per listing page.
   profile: {
-    name: 'Thada', // Username to display in the author segment.
+    name: 'Aaron', // Username to display in the author segment.
     email: 'your-email@gmail.com', // Email used for RSS feed's author segment
-    twitter: 'mildronize', // For SEO
-    github: 'mildronize', // For showing Github Calendar and recent activities
-    location: 'Songkhla, Thailand', // User location to display in the author segment and SEO.
-    avatar: 'https://avatars.githubusercontent.com/u/3647850?v=4', // User avatar to display in the author segment.
+    twitter: 'aaronamm', // For SEO
+    github: 'aaronamm', // For showing Github Calendar and recent activities
+    location: 'Bangkok, Thailand', // User location to display in the author segment and SEO.
+    avatar: 'https://avatars.githubusercontent.com/u/2938310?v=4', // User avatar to display in the author segment.
     description:
       // User description to display in the author segment.'
       'Yeah, I like animals better than people sometimes... ' +
@@ -38,13 +38,8 @@ const config = {
   userLinks: [
     {
       label: 'GitHub',
-      url: 'https://github.com/mildronize',
+      url: 'https://github.com/aaronamm',
       iconClassName: ['fa', 'github'],
-    },
-    {
-      label: 'Twitter',
-      url: 'https://twitter.com/mildronize',
-      iconClassName: ['fab', 'twitter'],
     },
     {
       label: 'Email',
@@ -56,23 +51,12 @@ const config = {
       url: 'https://www.linkedin.com/in/thada-wangthammang-281894a6/',
       iconClassName: ['fab', 'linkedin'],
     },
-    {
-      label: 'Medium',
-      url: 'https://thadaw.medium.com/',
-      iconClassName: ['fab', 'medium'],
-    },
-    {
-      label: 'RSS',
-      url: '/rss.xml',
-      iconClassName: ['fas', 'rss'],
-    }
   ],
-  copyright: 'Copyright © 2021. Thada W.', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright © 2021. Aaron', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#c62828', // Used for setting manifest and progress theme colors.
   backgroundColor: '#e0e0e0', // Used for setting manifest background color.
 };
 
-// Validate
 
 // Make sure pathPrefix is empty if not needed
 if (config.pathPrefix === '/') {

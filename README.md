@@ -49,3 +49,9 @@
 upgrade
 --latest
 https://classic.yarnpkg.com/en/docs/dependency-versions#toc-semantic-versioning
+
+```sh
+$ yarn upgrade @dotnetthailand/gatsby-theme-minimal-portfolio --latest
+```
+
+
