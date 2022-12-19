@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-dotnetthailand-gatsby-theme-minimal-portfolio-src-templates-tags-tsx",
+    "path": "/tags/ef-core/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/b/ef-core-7-dotnet-conf-thailand-2022"},"frontmatter":{"title":"Upgrade to EF Core 7 for fast query and better performance - .NET Conf 2022\n"}}}]}},"pageContext":{"tag":"ef-core","count":1}},
+    "staticQueryHashes": ["1411981384"]}

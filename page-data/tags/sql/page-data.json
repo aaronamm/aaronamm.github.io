@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-dotnetthailand-gatsby-theme-minimal-portfolio-src-templates-tags-tsx",
+    "path": "/tags/sql/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/b/backup-restore-a-sql-server-database-with-power-shell-scripts"},"frontmatter":{"title":"Backup & Restore a SQL Server database with PowerShell scripts\n"}}}]}},"pageContext":{"tag":"sql","count":1}},
+    "staticQueryHashes": ["1411981384"]}

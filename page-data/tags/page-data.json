@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-dotnetthailand-gatsby-theme-minimal-portfolio-src-pages-tags-tsx",
+    "path": "/tags/",
+    "result": {"data":{"site":{"siteMetadata":{"title":null}},"allMarkdownRemark":{"group":[{"fieldValue":"dotnet","totalCount":1},{"fieldValue":"ef-core","totalCount":1},{"fieldValue":"powershell","totalCount":1},{"fieldValue":"sql","totalCount":1},{"fieldValue":"sql-server","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["1411981384"]}
