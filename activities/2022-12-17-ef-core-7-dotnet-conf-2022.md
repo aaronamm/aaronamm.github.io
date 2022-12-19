@@ -1,6 +1,7 @@
 ---
 title: |
-  Upgrade to EF Core 7  for fast query and better performance - .NET Conf 2022
+  Upgrade to EF Core 7 for fast query and better performance - .NET Conf 2022
+slug: ef-core-7-dotnet-conf-thailand-2022
 type: Speaking (User Group/Meetup/Local events)
 primaryArea: EF Core
 additionalAreas: 
