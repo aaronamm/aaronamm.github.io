@@ -18,16 +18,15 @@ const config = {
   postsPerPage: 10, // Amount of posts displayed per listing page.
   profile: {
     name: 'Aaron', // Username to display in the author segment.
-    email: 'your-email@gmail.com', // Email used for RSS feed's author segment
+    email: 'theeranitp@gmail.com', // Email used for RSS feed's author segment
     twitter: 'aaronamm', // For SEO
     github: 'aaronamm', // For showing Github Calendar and recent activities
     location: 'Bangkok, Thailand', // User location to display in the author segment and SEO.
     avatar: 'https://avatars.githubusercontent.com/u/2938310?v=4', // User avatar to display in the author segment.
     description:
       // User description to display in the author segment.'
-      'Yeah, I like animals better than people sometimes... ' +
-      'Especially dogs. Dogs are the best. Every time you come home, they act like they haven\'t seen you in a year.' +
-      'And the good thing about dogs... is they got different dogs for different people.',
+      "I am a software engineer who loves to have everything automated." + 
+      "Vim, C#, F#, Java, Groovy, TypeScript"
   },
   headlines: [
     'Software engineer',
@@ -43,12 +42,12 @@ const config = {
     },
     {
       label: 'Email',
-      url: 'mailto:thada.wth@gmail.com',
+      url: 'mailto:theeranitp@gmail.com',
       iconClassName: ['fas', 'envelope'],
     },
     {
       label: 'Linkedin',
-      url: 'https://www.linkedin.com/in/thada-wangthammang-281894a6/',
+      url: 'https://www.linkedin.com/in/aaronamm',
       iconClassName: ['fab', 'linkedin'],
     },
   ],
